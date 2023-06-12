@@ -1,4 +1,4 @@
-<?php	include ("start.php");<!DOCTYPE html>
+<?php	include ("anti_ddos/start.php");<!DOCTYPE html>
 <html lang="en">
 <head>
   <title>Lithium Networks</title>
